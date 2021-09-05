@@ -1,0 +1,27 @@
+.Icon{
+    color: cadetblue;
+    font-size: 50px;
+}
+.Icon2{
+    color:blue;
+    font-size: 50px;
+}
+.grid{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-gap: 20px;
+}
+.box{
+    
+    width: auto;
+    height: 120px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+body{
+    background-color:crimson
+}
+.card{
+    box-shadow: 2px 2px
+}
